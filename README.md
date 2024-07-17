@@ -1,6 +1,7 @@
 <h1 align="center">HEY 👋, I'm Aryan Gadhwal</h1>
 <h3 align="center">⚡ I LOVE LEARNING NEW THINGS </h3>
 <H3>🌱currently focusing on FRONEND DEVLOPMENT....</h3>
+<h2>🔭 ALL THE PROJECTS ARE DEPLOYED....</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aryan-gadhwal-756990278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gadhwal-756990278" height="30" width="40" /></a>
