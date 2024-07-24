@@ -4,7 +4,7 @@
 <h2>🔭 ALL THE PROJECTS ARE DEPLOYED 👽....</h2>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/aryan-gadhwal-756990278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gadhwal-756990278" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-gadhwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-gadhwal-756990278" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
